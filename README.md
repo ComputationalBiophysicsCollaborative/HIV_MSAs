@@ -1,4 +1,4 @@
-# elife data
+# HIV sequence MSAs
 The files contained in here are the processed data files used to infer the Potts models and annotated as below:
 
 Protease (PR)
