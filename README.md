@@ -31,3 +31,11 @@ Integrase (IN)
 + **in.exper.reduce4.seq** : Alignment of our processed drug-experienced HIV-1 subtype B IN sequences in the reduced 4-letter (ABCD) amino acid alphabet as used to infer the Potts model.
                  
 + **in.exper.weights** : Sequence weights of individual sequences in in.exper.fullseq or in.exper.reduce4.seq. Sequences are given weights such that the effective number of sequences obtained from a single patient is 1.
+
+Capsid (CA)
+--------------
++ **ca.naive.fullseq** : Alignment of our processed drug-experienced HIV-1 subtype B CA sequences (obtained from the Los Alamos HIV Sequence Database) in the full 20-letter amino acid. 
+             
++ **ca.naive.reduce4.seq** : Alignment of our processed drug-experienced HIV-1 subtype B CA sequences in the reduced 4-letter (ABCD) amino acid alphabet as used to infer the Potts model.
+                 
++ **ca.naive.weights** : Sequence weights of individual sequences in ca.naive.fullseq or ca.naive.reduce4.seq. Sequences are given weights such that the effective number of sequences obtained from a single patient is 1.
