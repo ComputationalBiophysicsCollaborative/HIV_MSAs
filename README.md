@@ -34,8 +34,8 @@ Integrase (IN)
 
 Capsid (CA)
 --------------
-+ **ca.naive.fullseq** : Alignment of our processed drug-naive HIV-1 subtype B CA sequences (obtained from the Los Alamos HIV Sequence Database) in the full 20-letter amino acid. 
++ **ca.naive.fullseq** : Alignment of our processed drug-naive HIV-1 subtype B CA (capsid protein, p24) sequences (obtained from the Los Alamos HIV Sequence Database) in the full 20-letter amino acid. 
              
-+ **ca.naive.reduce4.seq** : Alignment of our processed drug-naive HIV-1 subtype B CA sequences in the reduced 4-letter (ABCD) amino acid alphabet as used to infer the Potts model.
++ **ca.naive.reduce4.seq** : Alignment of our processed drug-naive HIV-1 subtype B CA sequences (capsid protein, p24) in the reduced 4-letter (ABCD) amino acid alphabet as used to infer the Potts model.
                  
 + **ca.naive.weights** : Sequence weights of individual sequences in ca.naive.fullseq or ca.naive.reduce4.seq. Sequences are given weights such that the effective number of sequences obtained from a single patient is 1.
